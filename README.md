@@ -1,6 +1,7 @@
 ## vivado_8_bit_alu
 ## EXPERIMENT – 3  8-BIT ALU IMPLEMENTATION USING FPGA
-## Title  Design and Implementation of an 8-bit ALU on Spartan-7 Boolean FPGA Board Using Vivado
+## Title  
+Design and Implementation of an 8-bit ALU on Spartan-7 Boolean FPGA Board Using Vivado
 
 ## Aim
 To design an 8-bit Arithmetic and Logic Unit (ALU) using Verilog HDL and implement it on the Spartan-7 Boolean FPGA board, testing the output using on-board switches and LEDs.
